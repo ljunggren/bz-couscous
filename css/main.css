@@ -75,13 +75,13 @@ header.navbar {
 pre {
     padding: 0;
     border-color: #3D5166;
-    background-color: #1D2B3A;
+    background-color: #2b2f3b;
     border-radius: 4px;
     margin: 15px;
 }
 pre code {
     border: none;
-    background-color: #1D2B3A;
+    background-color: #2b2f3b;
 }
 
 code {
@@ -91,7 +91,7 @@ code {
     border-radius: 3px;
     color: #c5c8c6;
     border: solid 1px #3D5166;
-    background-color: #1D2B3A;
+    background-color: #2b2f3b;
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     word-wrap: break-word;
